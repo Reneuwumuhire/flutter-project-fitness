@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ![App View](https://github.com/Reneuwumuhire/flutter-project-fitness/assets/21109290/f544cfff-d8bd-4ee6-8ce2-ea9be0f27c56)
 
+![App View](https://github.com/Reneuwumuhire/flutter-project-fitness/assets/21109290/02d7c662-b4dd-477b-bc1b-90067c2916b8)
