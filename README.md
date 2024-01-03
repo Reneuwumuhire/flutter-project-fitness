@@ -14,4 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# flutter-project-fitness
+# flutter-project-fitness!
+
+[Screenshot 2024-01-03 at 15 31 17](https://github.com/Reneuwumuhire/flutter-project-fitness/assets/21109290/f544cfff-d8bd-4ee6-8ce2-ea9be0f27c56)
+
